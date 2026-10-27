@@ -2,6 +2,7 @@ import { useContext } from "react";
 import { Menubar } from "primereact/menubar";
 import { useNavigate } from "react-router";
 import { AuthContext } from "../../../auth/context/AuthContext";
+// import  Notificador  from "../../layout/notificador"
 
 interface Props {
   path?: string;
@@ -27,6 +28,7 @@ export const NavBar = ({ path = "" }: Props) => {
   const End = () => {
     return (
       <div className="flex-center gap-2 mr-2">
+        {/* <Notificador /> */}
         <span className="font-semibold">{user?.email}</span>
         <img
           src={user?.email}

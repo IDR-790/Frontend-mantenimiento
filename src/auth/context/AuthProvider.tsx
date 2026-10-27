@@ -33,6 +33,8 @@ export const AuthProvider = ({ children }: Props) => {
   }
 
   const [authState, dispatch] = useReducer(authReducer, initialState, init);
+  
+  const [permisosUser, setPermisosUser] = useState<Record<string, any>>({});
 
   const login = async (user: UserRequest): Promise<string> => {
     setTokenExp(false);
@@ -47,10 +49,11 @@ export const AuthProvider = ({ children }: Props) => {
       email: user.email,
       password: user.password
     }
-    // const message = await fetch.postRequest({ url:`${import.meta.env.VITE_API_AUTH}`, json, token:''})
-    const token = import.meta.env.VITE_TOKEN_EMPRESAS_ADMIN
+    const message = await fetch.postRequest({ url:`${import.meta.env.VITE_API_AUTH}`, json, token:''})
+    sessionStorage.setItem("session", JSON.stringify(message));
+  
+    // const token = import.meta.env.VITE_TOKEN_EMPRESAS_ADMIN
 
-    sessionStorage.setItem("session", JSON.stringify(token));
 
     dispatch(action);
     return "message"
@@ -62,7 +65,6 @@ export const AuthProvider = ({ children }: Props) => {
     dispatch({ type: types.logout });
   };
 
-  const [permisosUser, setPermisosUser] = useState<Record<string, any>>({});
 
   return (
     <AuthContext.Provider

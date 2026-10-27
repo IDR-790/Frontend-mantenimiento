@@ -1,70 +1,166 @@
+import { useCallback } from "react";
+
 interface fetchRequest {
   url: string;
   token: string;
-  json?: any
+  json?: any;
+  formData?: FormData;
 }
+
+const handleResponseError = async (res: Response) => {
+  if (res.status === 413) {
+    const err: any = new Error("Error de conexión");
+    err.status = 413;
+    throw err;
+  }
+  let message = `Error del servidor: ${res.status}`;
+  try {
+    const errorBody = await res.json();
+    message = errorBody?.message ?? errorBody?.error ?? message;
+  } catch { }
+  const err: any = new Error(message);
+  err.status = res.status;
+  throw err;
+};
 
 export const useFetch = () => {
 
-  const getRequest = async ({ url, token }: fetchRequest) => {
+  const getRequest = useCallback(async ({ url, token }: fetchRequest) => {
     try {
       const res: any = await fetch(url, {
         method: 'GET',
         headers: {
           'Authorization': `Bearer ${token}`,
-        }
+          // 'Cache-Control': 'no-cache',
+          // 'Pragma': 'no-cache'
+        },
+        // cache: 'no-store'
       })
+
+      // if (res.status === 304) {
+      //   return null
+      // }
+
+      if (res.status === 401 && token) {
+        sessionStorage.removeItem('session');
+        window.location.href = '/login';
+        return;
+      }
+
+      if (!res.ok) {
+        await handleResponseError(res);
+      }
+
       if (!res) throw new Error("WARN", res.status);
       return res.json();
     }
     catch (err: any) {
-      throw new Error(`Error en GET`, err)
+      if (err?.status === 413 || err?.message === "Error de conexión") {
+        throw err;
+      }
+      throw new Error(`Error en GET: ${err?.message ?? err}`)
     }
-  }
+  }, [])
 
   // Nuevo postRequest para trabajar con json y formData
-  const postRequest = async ({ url, token, json, formData }: any) => {
+  const postRequest = useCallback(async ({ url, token, json, formData }: any) => {
     try {
-        const headers: HeadersInit = {'Authorization': `Bearer ${token}`, };
+      const headers: HeadersInit = { 'Authorization': `Bearer ${token}`, };
 
-        let bodyData: any;
+      let bodyData: any;
 
-        if (formData) {
-            bodyData = formData;
-        } else {
-            bodyData = JSON.stringify(json);
-            headers['Content-Type'] = 'application/json';
-        }
+      if (formData) {
+        bodyData = formData;
+      } else {
+        bodyData = JSON.stringify(json);
+        headers['Content-Type'] = 'application/json';
+      }
 
-        const res = await fetch(url, {method: 'POST', body: bodyData, headers: headers});
+      const res = await fetch(url, { method: 'POST', body: bodyData, headers: headers });
 
-        if (!res.ok) throw new Error(`Server respondió con estatus: ${res.status}`);
-        return await res.json();
+      if (res.status === 401 && token) {
+        sessionStorage.removeItem('session');
+        window.location.href = '/login';
+        return;
+      }
+
+      if (!res.ok) {
+        await handleResponseError(res);
+      }
+
+      return await res.json();
     }
     catch (err: any) {
-        throw new Error(`Error en POST: ${err.message}`);
+      throw err;
     }
-  }
+  }, [])
 
-  const putRequest = async ({ url, token, json }: fetchRequest) => {
+  const putRequest = useCallback(async ({ url, token, json }: fetchRequest) => {
     try {
       const res: any = await fetch(url, {
-        method: 'PUT',
+        method: 'PATCH',
         body: JSON.stringify(json),
         headers: {
           'Authorization': `Bearer ${token}`,
           'Content-Type': 'application/json'
         }
       })
-      if (!res) throw new Error("WARN", res.status);
+
+      if (res.status === 401 && token) {
+        sessionStorage.removeItem('session');
+        window.location.href = '/login';
+        return;
+      }
+
+      if (!res.ok) {
+        await handleResponseError(res);
+      }
+
       return await res.json();
     }
     catch (err: any) {
-      throw new Error(`Error en PUT`, err)
+      throw err;
     }
-  }
+  }, [])
 
-  const deleteRequest = async ({ url, token }: fetchRequest) => {
+  const patchRequest = useCallback(async ({ url, token, json, formData }: fetchRequest) => {
+    try {
+      const headers: HeadersInit = {
+        'Authorization': `Bearer ${token}`
+      };
+
+      let bodyData: BodyInit;
+
+      if (formData) {
+        bodyData = formData;
+      } else {
+        bodyData = JSON.stringify(json ?? {});
+        headers['Content-Type'] = 'application/json';
+      }
+
+      const res = await fetch(url, {
+        method: 'PATCH',
+        body: bodyData,
+        headers
+      });
+
+      if (res.status === 401 && token) {
+        sessionStorage.removeItem('session');
+        window.location.href = '/login';
+        return;
+      }
+
+      if (!res.ok) {
+        await handleResponseError(res);
+      }
+
+      return await res.json();
+    } catch (err: any) {
+      throw err;
+    }
+  }, []);
+
+  const deleteRequest = useCallback(async ({ url, token }: fetchRequest) => {
     try {
       const res: any = await fetch(url, {
         method: 'DELETE',
@@ -73,19 +169,31 @@ export const useFetch = () => {
           'Authorization': `Bearer ${token}`,
         }
       })
-      if (!res) throw new Error("WARN", res.status);
-      return await res.json();
+
+      if (res.status === 401 && token) {
+        sessionStorage.removeItem('session');
+        window.location.href = '/login';
+        return;
+      }
+
+      if (!res.ok) {
+        await handleResponseError(res);
+      }
+
+      return await res.json().catch(() => null);
     }
     catch (err: any) {
-      throw new Error(`Error en DELETE`, err)
+      throw err;
     }
-  }
+  }, [])
 
   return {
     getRequest,
     postRequest,
     putRequest,
+    patchRequest,
     deleteRequest
   }
 }
+
 

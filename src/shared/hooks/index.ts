@@ -1,1 +1,1 @@
-export * from './useClock'
+export * from './useClock';

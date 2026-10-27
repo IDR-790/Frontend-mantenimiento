@@ -8,39 +8,21 @@ export interface Empresa {
     nombre: string;
 }
 
-export interface Dispositivo {
-    numeroSerie: string;
-    empresa: number;
-    nombre: string;
-}
-
 interface ProviderValues {
     empresas: Empresa[];
-    dispositivos: Dispositivo[];
 }
-
 
 export const GeneralContext = createContext({} as ProviderValues);
 
 
 export const GeneralProvider = ({ children }: any) => {
 
-    const { logged, tokenSession } = useContext(AuthContext)
-
+    const { logged, tokenSession,permisosUser, setPermisosUser } = useContext(AuthContext)
     const fetch = useFetch();
-
-    const { data: empresas } = useQuery({
+    
+    const { data: empresasAll = [] } = useQuery({
         queryKey: ["empresas"],
-        queryFn: () => fetch.getRequest({ url: `${import.meta.env.VITE_API_EMPRESAS}`, token: tokenSession }),
-        enabled: logged,
-        staleTime: Infinity,
-        refetchOnWindowFocus: false,
-        refetchOnReconnect: false,
-        refetchOnMount: false
-    });
-    const { data: dispositivos } = useQuery({
-        queryKey: ["dispositivos"],
-        queryFn: () => fetch.getRequest({ url: `${import.meta.env.VITE_API_DISPOSITIVOS}`, token: tokenSession }),
+        queryFn: () => fetch.getRequest({ url: `${import.meta.env.VITE_AUTH_EMPRESA}`, token: tokenSession?.token ?? '' }),
         enabled: logged,
         staleTime: Infinity,
         refetchOnWindowFocus: false,
@@ -48,11 +30,18 @@ export const GeneralProvider = ({ children }: any) => {
         refetchOnMount: false
     });
 
+    const empresas = tokenSession?.idEmpresa === 1
+        ? empresasAll
+        : empresasAll.filter(
+            (empresa: Empresa) =>
+                empresa.idEmpresa ===
+                tokenSession?.idEmpresa
+        );
 
     return (
         <GeneralContext.Provider value={{
             empresas,
-            dispositivos
+            // dispositivos
         }} >
             {children}
         </GeneralContext.Provider>
