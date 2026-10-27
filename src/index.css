@@ -1,0 +1,29 @@
+body {  
+  margin: 0;
+  box-sizing: border-box;
+  min-height: 100vh;
+  background-image: url('/fondo.png');
+}
+
+.flex-start{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  align-items: center;
+}
+.flex-center{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.flex-end{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+  align-items: center;
+}
+.leaflet-container {
+  height: 87vh !important;
+  width: 100%;
+}

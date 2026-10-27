@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "descripcion": "SALARIO MINIMO",
+        "valor": "207.44"
+    },
+    {
+        "id": "2",
+        "descripcion": "UMA",
+        "valor": "103.74"
+    },
+    {
+        "id": "3",
+        "descripcion": "UMI",
+        "valor": "96.32"
+    },
+    {
+        "id": "4",
+        "descripcion": "FACTOR DE INTEGRACION BASE",
+        "valor": "1"
+    },
+    {
+        "id": "5",
+        "descripcion": "FACTOR DE INTEGRACION CONFIANZA",
+        "valor": "1.16667"
+    },
+    {
+        "id": "6",
+        "descripcion": "PORCENTAJE",
+        "valor": "0.63"
+    },
+    {
+        "id": "7",
+        "descripcion": "FACTOR PREMIO ANUAL",
+        "valor": "3.1"
+    },
+    {
+        "id": "8",
+        "descripcion": "FACTOR PREMIO MENSUAL",
+        "valor": "1.5"
+    },
+    {
+        "id": "9",
+        "descripcion": "FACTOR PRIMA VACACIONAL",
+        "valor": "0.44"
+    },
+    {
+        "id": "10",
+        "descripcion": "FACTOR CUOTA SINDICAL",
+        "valor": "0.01"
+    },
+    {
+        "id": "11",
+        "descripcion": "FACTOR FONDO AHORRO",
+        "valor": "0.0534"
+    },
+    {
+        "id": "12",
+        "descripcion": "PRIMA DE RIESGO",
+        "valor": "4.23084"
+    },
+    {
+        "id": "13",
+        "descripcion": "FACTOR IMSS 65",
+        "valor": "0.004"
+    },
+    {
+        "id": "14",
+        "descripcion": "FACTOR IMSS 66",
+        "valor": "0.0025"
+    },
+    {
+        "id": "15",
+        "descripcion": "FACTOR IMSS 67",
+        "valor": "0.00625"
+    },
+    {
+        "id": "16",
+        "descripcion": "FACTOR IMSS 68",
+        "valor": "0.01125"
+    },
+    {
+        "id": "17",
+        "descripcion": "FACTOR IMSS 69",
+        "valor": "0.00375"
+    },
+    {
+        "id": "18",
+        "descripcion": "AYUDA ESCOLAR",
+        "valor": "800"
+    },
+    {
+        "id": "19",
+        "descripcion": "AYUDA DE LENTES",
+        "valor": "500"
+    },
+    {
+        "id": "20",
+        "descripcion": "AYUDA FONDO CAJA AHORRO CONFIANZA",
+        "valor": "50"
+    },
+    {
+        "id": "21",
+        "descripcion": "SEGURO INFONAVIT",
+        "valor": "15"
+    },
+    {
+        "id": "22",
+        "descripcion": "PORCENTAJE CONFIANZA",
+        "valor": "0.55"
+    },
+    {
+        "id": "23",
+        "descripcion": "AYUDA DEFUNCION",
+        "valor": "9360"
+    },
+    {
+        "id": "24",
+        "descripcion": "FACTOR CUOTA SJLDTRTP",
+        "valor": "0.0075"
+    }
+]

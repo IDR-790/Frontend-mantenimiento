@@ -1,0 +1,3044 @@
+[
+    {
+        "cred": "1",
+        "nombre": "ALFREDO ABAD GAMA",
+        "rfc": "A660106H83661",
+        "adscripcion": "GERENCIA MODULO 3 Módulo 03"
+    },
+    {
+        "cred": "2",
+        "nombre": "JESUS RAFAEL ABARCA MELO",
+        "rfc": "J690727H85692",
+        "adscripcion": "GERENCIA MODULO 3 Módulo 03"
+    },
+    {
+        "cred": "3",
+        "nombre": "ALEJANDRO ABREGO ZEA",
+        "rfc": "A650821H86652",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "50",
+        "nombre": "SILVERIO ALMAZAN PEREZ",
+        "rfc": "S740207H95741",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "68",
+        "nombre": "JOSE LUIS ALVAREZ TORRES",
+        "rfc": "L650326H90650",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "154",
+        "nombre": "MARIO ALBERTO BECERRIL VELAZQUEZ",
+        "rfc": "M671123H90670",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "169",
+        "nombre": "ERNESTO BERNAL TAPIA",
+        "rfc": "E671111H93670",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "179",
+        "nombre": "JOSE FRANCISCO BOUCHAIN MORENO",
+        "rfc": "F641120H83642",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "321",
+        "nombre": "MANUEL CORDOBA RESENDIZ",
+        "rfc": "M700528H91702",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "337",
+        "nombre": "JUAN CARLOS CORTES VARGAS",
+        "rfc": "J740509H90745",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "353",
+        "nombre": "CIRILO ALFONSO CRUZ HERNANDEZ",
+        "rfc": "C590209H78592",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "394",
+        "nombre": "FRANCISCO JAVIER DIAZ JIMENEZ",
+        "rfc": "F630920H83630",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "397",
+        "nombre": "VICTOR MANUEL DIAZ LOPEZ",
+        "rfc": "V650307H82654",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "443",
+        "nombre": "CESAR ESTEVEZ SANCHEZ",
+        "rfc": "C670806H89671",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "492",
+        "nombre": "ROGELIO FUERTE RAYA",
+        "rfc": "R680824H88680",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "495",
+        "nombre": "CARLOS GALICIA MARTINEZ",
+        "rfc": "C631025H84632",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "504",
+        "nombre": "ISIDRO GAMBOA GUTIERREZ",
+        "rfc": "I620515H81620",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "524",
+        "nombre": "JUAN CARLOS GARCIA GONZALEZ",
+        "rfc": "J700725H87700",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "542",
+        "nombre": "ROMAN GUADALUPE GARCIA MENDOZA",
+        "rfc": "R650809H95650",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "547",
+        "nombre": "RUBEN GARCIA MORALES",
+        "rfc": "R730311H90735",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "607",
+        "nombre": "ALFREDO GONZALEZ ARTEAGA",
+        "rfc": "A741006H93744",
+        "adscripcion": "J.U.D. DE OPERACION Módulo 01"
+    },
+    {
+        "cred": "615",
+        "nombre": "FRANCISCO RAUL GONZALEZ DELMOTTE",
+        "rfc": "F691113H96690",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "625",
+        "nombre": "FELIPE DE JESUS GONZALEZ GUERRERO",
+        "rfc": "F690205H91694",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "646",
+        "nombre": "VICTOR IGNACIO GONZALEZ SEGURA",
+        "rfc": "V700530H95700",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "741",
+        "nombre": "FERNANDO HERNANDEZ NOLASCO",
+        "rfc": "F630306H81634",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "766",
+        "nombre": "LUIS MARTIN HERRERA HERNANDEZ",
+        "rfc": "L700719H91700",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "804",
+        "nombre": "MARGARITO JAVIER JIMENEZ ESPINALES",
+        "rfc": "M670610H89674",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "835",
+        "nombre": "JOSE MANUEL JUAREZ ZAMORA",
+        "rfc": "M761012H93762",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "889",
+        "nombre": "FROYLAN LOPEZ PEREZ",
+        "rfc": "F641003H81643",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "909",
+        "nombre": "VICTOR MANUEL LUNA MENDEZ",
+        "rfc": "V701227H92700",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "992",
+        "nombre": "JUAN GABRIEL MARTINEZ SANCHEZ",
+        "rfc": "J741121H90742",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "1070",
+        "nombre": "CARLOS MOCTEZUMA ALTAMIRANO",
+        "rfc": "C741104H95741",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "1102",
+        "nombre": "HECTOR MORALES SANCHEZ",
+        "rfc": "H660810H83660",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "1119",
+        "nombre": "JOSE ANTONIO MORENO VALLERROJO",
+        "rfc": "A570425H75575",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "1245",
+        "nombre": "JOSE LUIS PEREZ GARDUÑO",
+        "rfc": "L650917H85650",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "1309",
+        "nombre": "JOSE ANTONIO RAMIREZ GUERRERO",
+        "rfc": "A621010H95620",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "1344",
+        "nombre": "JOSE LUIS RANGEL ESPEJEL",
+        "rfc": "L710731H96710",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "1413",
+        "nombre": "GUSTAVO RODRIGUEZ CARRANZA",
+        "rfc": "G661126H95660",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "1451",
+        "nombre": "MIGUEL ANGEL ROJAS BERNAL",
+        "rfc": "M640528H81642",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "1565",
+        "nombre": "ROBERTO SANTIAGO AYALA",
+        "rfc": "R640508H96640",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "1643",
+        "nombre": "VICTOR MANUEL TORRES LEON",
+        "rfc": "V581020H75580",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "1690",
+        "nombre": "ALEJANDRO VARGAS ESCAMILLA",
+        "rfc": "A650717H82652",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "1731",
+        "nombre": "BENJAMIN VELAZQUEZ VALDEZ",
+        "rfc": "B680120H85680",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "1743",
+        "nombre": "JOSE FELIPE VILCHIS AGUILAR",
+        "rfc": "F710210H90712",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "2131",
+        "nombre": "FRANCISCO JAVIER MARTINEZ NAVA",
+        "rfc": "F651203H80650",
+        "adscripcion": "J. U. D. DE MANTENIMIENTO Módulo 01"
+    },
+    {
+        "cred": "2248",
+        "nombre": "JULIETA DE JESUS MOZO GARCIA",
+        "rfc": "J580730M81581",
+        "adscripcion": "J. U. D. DE MANTENIMIENTO Módulo 01"
+    },
+    {
+        "cred": "2265",
+        "nombre": "JOSE ISIDRO RAFAEL DUARTE MEDINA",
+        "rfc": "I640515H95640",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "2378",
+        "nombre": "MANUEL RAFAEL NEYRA HERNANDEZ",
+        "rfc": "M580515H92580",
+        "adscripcion": "J. U. D. DE MANTENIMIENTO Módulo 01"
+    },
+    {
+        "cred": "2386",
+        "nombre": "YOLANDA CORNEJO JIMENEZ",
+        "rfc": "Y670314M85671",
+        "adscripcion": "OFICINA DE FINANZAS Módulo 01"
+    },
+    {
+        "cred": "2402",
+        "nombre": "PEDRO JULIO PEDRES IBAÑEZ",
+        "rfc": "P700615H91703",
+        "adscripcion": "OFICINA DE FINANZAS Módulo 01"
+    },
+    {
+        "cred": "2411",
+        "nombre": "ROBERTO GOMEZ CAMARILLO",
+        "rfc": "R611024H80614",
+        "adscripcion": "OFICINA DE DESPACHO DE AUTOBUSES Módulo 01"
+    },
+    {
+        "cred": "2424",
+        "nombre": "LEONARDO CRUZ SAMPAYO",
+        "rfc": "L681106H87683",
+        "adscripcion": "J.U.D. DE ADMINISTRACION Y FINANZAS Módulo 01"
+    },
+    {
+        "cred": "2629",
+        "nombre": "JOSE RENE ROJO VALENCIA",
+        "rfc": "R640904H81641",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "2775",
+        "nombre": "JUANA CORREA AVALOS",
+        "rfc": "J741108M96740",
+        "adscripcion": "OFICINA DE RECURSOS HUMANOS Módulo 01"
+    },
+    {
+        "cred": "2781",
+        "nombre": "FRANCISCO JAVIER MEDINA SALGADO",
+        "rfc": "F780113H98782",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "2809",
+        "nombre": "CRISTOBAL ZUMAYA DE LA ROSA",
+        "rfc": "C730305H00730",
+        "adscripcion": "GERENCIA  Módulo 01"
+    },
+    {
+        "cred": "2854",
+        "nombre": "PASCUAL HECTOR ALDANA PEREZ",
+        "rfc": "P700329H88701",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "2876",
+        "nombre": "JOSE JORGE ONOFRE GUARNEROS",
+        "rfc": "J650928H87650",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3028",
+        "nombre": "JUAN CARLOS CEBALLOS DE LA TORRE",
+        "rfc": "J750225H00750",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "3118",
+        "nombre": "JOSE ANGEL GARCIA ",
+        "rfc": "A610723H80612",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3156",
+        "nombre": "JOSE LUIS RODRIGUEZ MUÑOZ",
+        "rfc": "L770825H98770",
+        "adscripcion": "OFICINA DE RECEPCION DE AUTOBUSES Módulo 01"
+    },
+    {
+        "cred": "3196",
+        "nombre": "GERMAN PEREZ BERNAL",
+        "rfc": "G790928H01790",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3197",
+        "nombre": "FABRICIO FRANCISCO GARCIA RODRIGUEZ",
+        "rfc": "F700826H95700",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3201",
+        "nombre": "SALVADOR CASTILLO COSS",
+        "rfc": "S641004H84640",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3207",
+        "nombre": "MIGUEL ERNESTO GALAN BARRON",
+        "rfc": "M810102H01810",
+        "adscripcion": "GERENCIA  Módulo 01"
+    },
+    {
+        "cred": "3256",
+        "nombre": "ARMANDO ROJAS SALDIVAR",
+        "rfc": "A711126H88713",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "3269",
+        "nombre": "ANDRES GERMAN MIRANDA GARCIA",
+        "rfc": "A621130H82620",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3306",
+        "nombre": "JOSE ROBERTO HERNANDEZ COLIN",
+        "rfc": "R620322H81622",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3309",
+        "nombre": "JOSE LUIS CRUZ GARCIA",
+        "rfc": "L660818H85660",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3424",
+        "nombre": "FLORENCIO LUCAS HERNANDEZ",
+        "rfc": "F731005H91739",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3447",
+        "nombre": "OSCAR ALBERTO RUIZ CAMPOS",
+        "rfc": "O691020H96690",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3520",
+        "nombre": "JOSE JUAN GARRIDO PEREZ",
+        "rfc": "J760825H92761",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3580",
+        "nombre": "HECTOR SAUL BAUTISTA PACHECO",
+        "rfc": "H750224H93755",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3582",
+        "nombre": "JOSE CESAR VILLAVICENCIO LORANCA",
+        "rfc": "C640328H86641",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3701",
+        "nombre": "OCTAVIO MARTINEZ  ",
+        "rfc": "O650322H81652",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3712",
+        "nombre": "ARTURO RONQUILLO MONROY",
+        "rfc": "A631215H83631",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3715",
+        "nombre": "EDUARDO ESPINOSA MACEDO",
+        "rfc": "E661007H95660",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3726",
+        "nombre": "JOSE LUCINO ALFONSO MARTINEZ",
+        "rfc": "L650630H92650",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3727",
+        "nombre": "JOSE JORGE CORDOBA RODRIGUEZ",
+        "rfc": "J730521H92731",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3788",
+        "nombre": "JESUS CRUZ GONZALEZ",
+        "rfc": "J630201H80632",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3931",
+        "nombre": "ALBERTO CABAÑAS VEGA",
+        "rfc": "A720501H89724",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3932",
+        "nombre": "HECTOR PALMA LOPEZ",
+        "rfc": "H700423H91700",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3933",
+        "nombre": "LUCAS JOSE CONTRERAS OLVERA",
+        "rfc": "L651018H87650",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3937",
+        "nombre": "ADAN JIMENEZ DOMINGUEZ",
+        "rfc": "A741227H93743",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3988",
+        "nombre": "RAYMUNDO MENDOZA TREJO",
+        "rfc": "R760315H93768",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "3993",
+        "nombre": "ENRIQUE NEGRETE MALDONADO",
+        "rfc": "E670715H84671",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4034",
+        "nombre": "HIRAM HUMBERTO VARGAS JIMENEZ",
+        "rfc": "H571220H82570",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4036",
+        "nombre": "EULALIO RESENDIZ CAMACHO",
+        "rfc": "E640522H82640",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4081",
+        "nombre": "ADRIAN CASTRO RAMIREZ",
+        "rfc": "A690305H95690",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4163",
+        "nombre": "JORGE VARGAS MARTINEZ",
+        "rfc": "J651027H15660",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4164",
+        "nombre": "PABLO ENRIQUE GUTIERREZ ORTEGA",
+        "rfc": "P661230H01660",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4167",
+        "nombre": "MIGUEL CRUZ PADILLA",
+        "rfc": "M621130H78604",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4168",
+        "nombre": "GALO VICENTE SANCHEZ MENDOZA",
+        "rfc": "G711016H89711",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4170",
+        "nombre": "MARCELINO HERNANDEZ ROSALES",
+        "rfc": "M650106H83650",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4219",
+        "nombre": "JOSE ADAN RAMIREZ CHICO",
+        "rfc": "A671115H85672",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4233",
+        "nombre": "DAVID MUÑOZ ACUÑA",
+        "rfc": "D670308H01670",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4266",
+        "nombre": "GERARDO SOLIS COSS",
+        "rfc": "G650107H81650",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4288",
+        "nombre": "ANGEL MARIO DIAZ PEREZ",
+        "rfc": "A600313H78600",
+        "adscripcion": "OFICINA DE REFACC. Y HERRAMIENTAS Módulo 01"
+    },
+    {
+        "cred": "4362",
+        "nombre": "LUIS ALVAREZ CHAVEZ",
+        "rfc": "L610630H83610",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4435",
+        "nombre": "CESAR MARCOS ALONSO MERCADO",
+        "rfc": "C711007H89713",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4437",
+        "nombre": "BLAS RAMIREZ CASTRO",
+        "rfc": "B661129H95660",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4614",
+        "nombre": "FELIPE DE JESUS HINOJO RODRIGUEZ",
+        "rfc": "F621030H82620",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4643",
+        "nombre": "MARIO PUGA CABAÑAS",
+        "rfc": "M721003H96720",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4651",
+        "nombre": "MARIO ALBERTO PEREZ PAEZ",
+        "rfc": "M650119H83650",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4673",
+        "nombre": "MARGARITO GOMEZ SANDOVAL",
+        "rfc": "M720225H88720",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4687",
+        "nombre": "VICENTE REBOLLEDO RODRIGUEZ",
+        "rfc": "V671114H85672",
+        "adscripcion": "OFICINA DE DESPACHO DE AUTOBUSES Módulo 01"
+    },
+    {
+        "cred": "4694",
+        "nombre": "JUAN FRANCISCO RIVERA ESTRADA",
+        "rfc": "J720927H90724",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4708",
+        "nombre": "TOMAS RUBI FLORES",
+        "rfc": "T640817H84641",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4811",
+        "nombre": "MARIO GUDIÑO ANICETO",
+        "rfc": "M761218H95765",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4849",
+        "nombre": "EDUARDO JIMENEZ BARROSO",
+        "rfc": "E651228H85651",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "4890",
+        "nombre": "JESUS RIVERA AYALA",
+        "rfc": "J631222H94630",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "4928",
+        "nombre": "OSCAR GUTIERREZ JIMENEZ",
+        "rfc": "O640821H84640",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5095",
+        "nombre": "EDMUNDO ALEGRIA MARTINEZ",
+        "rfc": "E721116H96720",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5096",
+        "nombre": "WILFRIDO MONROY OLMOS",
+        "rfc": "W701108H87700",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5149",
+        "nombre": "RAUL VIEYRA FIGUEROA",
+        "rfc": "R681129H89683",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5155",
+        "nombre": "JOEL GUZMAN HERRERA",
+        "rfc": "J770723H94772",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5167",
+        "nombre": "CARLOS GODINEZ HERNANDEZ",
+        "rfc": "C670409H86671",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5174",
+        "nombre": "HECTOR MANRIQUEZ QUEZADA",
+        "rfc": "H651018H82651",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5178",
+        "nombre": "RICARDO ESCAMILLA MORALES",
+        "rfc": "R720928H89722",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5206",
+        "nombre": "ROGELIO ALFONSO MARILES VILCHIS",
+        "rfc": "R550228H74557",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5231",
+        "nombre": "ARMANDO GARCIA GARCIA",
+        "rfc": "A620910H81621",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5289",
+        "nombre": "VICTOR MENDOZA HERNANDEZ",
+        "rfc": "V660721H81660",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5470",
+        "nombre": "EDMUNDO HUERTA VIVANCO",
+        "rfc": "E671120H86678",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5475",
+        "nombre": "ISRAEL MARTINEZ ROMERO",
+        "rfc": "I750202H93750",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5483",
+        "nombre": "FRANCISCO JAVIER RAMIREZ HERNANDEZ",
+        "rfc": "F620608H78626",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5490",
+        "nombre": "JOSE LUIS DAVILA VELAZQUEZ",
+        "rfc": "L600430H78600",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5493",
+        "nombre": "JOSE MARTIN MORENO LUGO",
+        "rfc": "M650830H89650",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5509",
+        "nombre": "DEMETRIO MORALES GASPAR",
+        "rfc": "D671223H94670",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5549",
+        "nombre": "RODOLFO MUÑOZ CALZADA",
+        "rfc": "R820129H01822",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5554",
+        "nombre": "JOEL GARCIA ROSALES",
+        "rfc": "J660711H85633",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5585",
+        "nombre": "ALFREDO IGNACIO NUÑEZ MORENO",
+        "rfc": "A810824H97815",
+        "adscripcion": "OFICINA DE SERVICIOS GENERALES Módulo 01"
+    },
+    {
+        "cred": "5595",
+        "nombre": "VICTOR MANUEL SANCHEZ RAMOS",
+        "rfc": "V691209H86691",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5640",
+        "nombre": "ISRAEL GARCIA PALACIOS",
+        "rfc": "I750924H93756",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5647",
+        "nombre": "LUIS LEONARDO RENTERIA QUIROZ",
+        "rfc": "L710709H91714",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5807",
+        "nombre": "GUILLERMO MONDRAGON  ",
+        "rfc": "G650517H85651",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5825",
+        "nombre": "SERGIO MATEO ORTIZ MARTINEZ",
+        "rfc": "S720921H91722",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "5967",
+        "nombre": "JOSE ALFREDO FRANCO LOPEZ",
+        "rfc": "A790330H95792",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6005",
+        "nombre": "VICTOR VAZQUEZ GARCIA",
+        "rfc": "V831204H00832",
+        "adscripcion": "OFICINA DE FINANZAS Módulo 01"
+    },
+    {
+        "cred": "6023",
+        "nombre": "JOSE ORLANDO SOLIS ESCAMILLA",
+        "rfc": "O580702H78587",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6112",
+        "nombre": "JUAN CARLOS ANGELES SEVILLA",
+        "rfc": "J830429H02830",
+        "adscripcion": "OFICINA DE COMBUSTIBLES Y LUBRICANTES Módulo 01"
+    },
+    {
+        "cred": "6113",
+        "nombre": "GERARDO HERNANDEZ FLORES",
+        "rfc": "G760301H95761",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "6163",
+        "nombre": "JESUS GARCIA HERNANDEZ",
+        "rfc": "J681222H91680",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6201",
+        "nombre": "EDUARDO RIVERA AYALA",
+        "rfc": "E650426H81640",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6256",
+        "nombre": "MIGUEL MARTINEZ GARCIA",
+        "rfc": "M680427H05680",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6269",
+        "nombre": "JUAN ADRIAN TUNION PICHARDO",
+        "rfc": "J780908H98782",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6290",
+        "nombre": "MARIO HERNANDEZ MATEOS",
+        "rfc": "M710522H90714",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6292",
+        "nombre": "EDGAR JIMENEZ MORALES",
+        "rfc": "E721112H95720",
+        "adscripcion": "OFICINA DE COMBUSTIBLES Y LUBRICANTES Módulo 01"
+    },
+    {
+        "cred": "6310",
+        "nombre": "BENITO PEÑALOZA RANGEL",
+        "rfc": "B580321H99580",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6311",
+        "nombre": "GUILLERMO ISRAEL SILVA HERNANDEZ",
+        "rfc": "G721015H90727",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6355",
+        "nombre": "JOSE RAUL ARELLANO LUNA",
+        "rfc": "R600804H78601",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6384",
+        "nombre": "CARLOS ANGEL   ROMERO",
+        "rfc": "C601021H80601",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6395",
+        "nombre": "LUIS ANTONIO MARTINEZ CASTRO",
+        "rfc": "L781116H96782",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6402",
+        "nombre": "ADOLFO NAVA VARGAS",
+        "rfc": "A650705H86651",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6404",
+        "nombre": "RICARDO ALEJANDRO GUERRERO VAZQUEZ",
+        "rfc": "R740727H94741",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6414",
+        "nombre": "MIGUEL ANGEL SANTILLAN JIMENEZ",
+        "rfc": "M610901H81611",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6432",
+        "nombre": "JOSE ANTONIO MARTINEZ  ",
+        "rfc": "A550108H71550",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6459",
+        "nombre": "MARCOS HERNANDEZ GONZALEZ",
+        "rfc": "M790517H06790",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6469",
+        "nombre": "SALOMON VELAZQUEZ ENRIQUEZ",
+        "rfc": "S790420H98793",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6474",
+        "nombre": "RICARDO JOAQUIN GOMEZ GONZALEZ",
+        "rfc": "R610504H91610",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6479",
+        "nombre": "MARTIN HERNANDEZ JALPA",
+        "rfc": "M641026H81645",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6481",
+        "nombre": "VICTOR MANUEL MENDOZA ARGUIJO",
+        "rfc": "V710822H00710",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6482",
+        "nombre": "ARMANDO HERNANDEZ CHAVARRIA",
+        "rfc": "A660822H85663",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6484",
+        "nombre": "VICTOR RIOS ROJAS",
+        "rfc": "V640916H81645",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6497",
+        "nombre": "JOSE IRINEO HERNANDEZ GUERRERO",
+        "rfc": "I770505H98770",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6515",
+        "nombre": "JORGE ANTONIO SANCHEZ ORTIZ",
+        "rfc": "J670102H85671",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6517",
+        "nombre": "VICTORIANO PINEDA RODRIGUEZ",
+        "rfc": "V660506H87663",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6519",
+        "nombre": "GUSTAVO MORALES BRISEÑO",
+        "rfc": "G710302H06710",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6521",
+        "nombre": "ALBERTO CRUZ LOYO",
+        "rfc": "A740904H91740",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6524",
+        "nombre": "ROGELIO MARQUEZ ALONSO",
+        "rfc": "R710323H90716",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6527",
+        "nombre": "FERNANDO FRUTIS SUAREZ",
+        "rfc": "F750204H91730",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6534",
+        "nombre": "FRANCISCO BARAJAS SILVESTRE",
+        "rfc": "F670116H81651",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6537",
+        "nombre": "GUSTAVO CORONA ROMERO",
+        "rfc": "G661027H06660",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6540",
+        "nombre": "VICENTE MORENO MARTINEZ",
+        "rfc": "V680405H86681",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6542",
+        "nombre": "CARLOS REYES ROBLES",
+        "rfc": "C790722H96791",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6547",
+        "nombre": "RIGOBERTO RAMIREZ ROJAS",
+        "rfc": "R661208H06660",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6551",
+        "nombre": "JESUS GARCIA JARAMILLO",
+        "rfc": "J651120H84651",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6557",
+        "nombre": "ALBERTO FRAUSTO ESCOTO",
+        "rfc": "A680515H86690",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6564",
+        "nombre": "ALBERTO OSUNA NERI",
+        "rfc": "A741117H97740",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6565",
+        "nombre": "ANGEL FRANCISCO IBARRA GARCIA",
+        "rfc": "A701011H06700",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6571",
+        "nombre": "ARMANDO BALLINA PEREZ",
+        "rfc": "A741212H97740",
+        "adscripcion": "OFICINA DE INFORMÁTICA Módulo 01"
+    },
+    {
+        "cred": "6661",
+        "nombre": "EDUARDO ANTONIO MARTINEZ GARCIA",
+        "rfc": "E710318H91711",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6720",
+        "nombre": "JUAN DANIEL DELGADO ESQUIVEL",
+        "rfc": "J740718H93740",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6726",
+        "nombre": "JUAN CARLOS HERRERA BARRIOS",
+        "rfc": "J700806H89703",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6727",
+        "nombre": "ALBERTO MAYA VIVERO",
+        "rfc": "A700215H93701",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6734",
+        "nombre": "FRANCISCO GABRIEL SANCHEZ MORALES",
+        "rfc": "F710304H06710",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6751",
+        "nombre": "JUAN PABLO RICO ALQUICIRA",
+        "rfc": "J781219H97784",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6791",
+        "nombre": "ABRAHAM MARTINEZ CASTRO",
+        "rfc": "A540925H74555",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6794",
+        "nombre": "FABIAN LOPEZ PEÑAFIEL",
+        "rfc": "F841117H02841",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6798",
+        "nombre": "FRANCISCO JAVIER RIVERA RAMIREZ",
+        "rfc": "F681203H89683",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6802",
+        "nombre": "CESAR ZAMARRIPA MIRANDA",
+        "rfc": "C690515H90692",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6811",
+        "nombre": "NEMESIO JAVIER GONZALEZ PEREZ",
+        "rfc": "N640417H81640",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6817",
+        "nombre": "VICTOR MANUEL NOLACEA GALINDO",
+        "rfc": "V741124H91740",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6886",
+        "nombre": "JAIME ZETINA BUSTAMANTE",
+        "rfc": "J650901H86652",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6897",
+        "nombre": "ADOLFO APANCO SEBASTIAN",
+        "rfc": "A780927H05780",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6941",
+        "nombre": "GERARDO SALAZAR BALDERAS",
+        "rfc": "G761002H94762",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "6969",
+        "nombre": "ELOY ROMERO HERNANDEZ",
+        "rfc": "E771201H95775",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7015",
+        "nombre": "RICARDO OMAR GONZALEZ CRUZ",
+        "rfc": "R810918H97812",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7043",
+        "nombre": "LUIS GUILLERMO MARTINEZ GUERRERO",
+        "rfc": "L670504H84660",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7132",
+        "nombre": "JOSE JAIME ALCANTAR GOMEZ",
+        "rfc": "J701012H88700",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7145",
+        "nombre": "RENATO ROSAS MARTINEZ",
+        "rfc": "R730912H91737",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7190",
+        "nombre": "PEDRO ANTONIO RUIZ SANTIAGO",
+        "rfc": "P640328H82643",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7200",
+        "nombre": "JORGE ANDRES MONROY REYES",
+        "rfc": "J850413H05851",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7206",
+        "nombre": "JAVIER VENTURA SALAZAR",
+        "rfc": "J581202H80581",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7207",
+        "nombre": "FRANCISCO RODRIGO MERCADO PALACIOS",
+        "rfc": "F850710H07850",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7221",
+        "nombre": "FRANCISCO BONILLA REYES",
+        "rfc": "F740115H07740",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7266",
+        "nombre": "MIGUEL GARCIA RAMIREZ",
+        "rfc": "M600927H94600",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7267",
+        "nombre": "JAIME SANCHEZ VARGAS",
+        "rfc": "J650302H01650",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7269",
+        "nombre": "JOSE JUAN ALVAREZ HERNANDEZ",
+        "rfc": "J720331H89721",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7270",
+        "nombre": "VICTOR FRANCISCO JUAREZ CASTILLO",
+        "rfc": "V801108H08800",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7284",
+        "nombre": "ANGEL GUADALUPE MEJIA  ",
+        "rfc": "A761111H01760",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7285",
+        "nombre": "JOSE ARMANDO MENDEZ VAZQUEZ",
+        "rfc": "A681026H87670",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7292",
+        "nombre": "RAUL MARTINEZ MERCADO",
+        "rfc": "R640107H80640",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7298",
+        "nombre": "LUIS EDUARDO DURAN GAONA",
+        "rfc": "L720308H07720",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7311",
+        "nombre": "NOE MONROY MONTIEL",
+        "rfc": "N820205H01820",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7317",
+        "nombre": "HUGO ENRIQUE SOLACHE CASTILLO",
+        "rfc": "H780715H96783",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7321",
+        "nombre": "OSCAR GUSTAVO GARNICA ORGAZ",
+        "rfc": "O760925H93761",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7349",
+        "nombre": "JULIO FRIAS FAJARDO",
+        "rfc": "J720813H91722",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7387",
+        "nombre": "REYNA HERNANDEZ PEREZ",
+        "rfc": "R740104M92747",
+        "adscripcion": "OFICINA DE INFORMÁTICA Módulo 01"
+    },
+    {
+        "cred": "7512",
+        "nombre": "MARIA MAGDALENA GOMEZ OLVERA",
+        "rfc": "M630401M09630",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7520",
+        "nombre": "VERONICA JUAREZ CORONA",
+        "rfc": "V710129M92690",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7677",
+        "nombre": "FRANCISCO VIDAL ROMERO MARTINEZ",
+        "rfc": "F760418H94760",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "7792",
+        "nombre": "SAMUEL BADILLO FUENTES",
+        "rfc": "S661125H88661",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7813",
+        "nombre": "ESTEBAN OCTAVIO DOMINGUEZ HERNANDEZ",
+        "rfc": "E680624H90681",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7850",
+        "nombre": "JAVIER GONZALEZ AMEZQUITA",
+        "rfc": "J611025H80614",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7903",
+        "nombre": "GERARDO HERNANDEZ MONROY",
+        "rfc": "G620811H79625",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7923",
+        "nombre": "VICTOR HUGO VELAZQUEZ ENRIQUEZ",
+        "rfc": "V820821H98821",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7925",
+        "nombre": "GENARO ESCOBAR MELENDEZ",
+        "rfc": "G820521H97825",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "7988",
+        "nombre": "CARLOS ALBERTO REYES AGUILAR",
+        "rfc": "C890922H09891",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8007",
+        "nombre": "JESUS GALLARDO TREJO",
+        "rfc": "J840815H02841",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8010",
+        "nombre": "JOSE JAIME GONZALEZ MARTINEZ",
+        "rfc": "J820405H11820",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8018",
+        "nombre": "RICARDO LOPEZ JIMENEZ",
+        "rfc": "R781001H11780",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8019",
+        "nombre": "FRANCISCO MARTINEZ GUTIERREZ",
+        "rfc": "F591203H77590",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8021",
+        "nombre": "JOSE FRANCISCO MORENO GOMEZ",
+        "rfc": "F831202H08830",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8065",
+        "nombre": "ALEJANDRO AKATZIN HERNANDEZ VIEYRA",
+        "rfc": "A871103H06870",
+        "adscripcion": "J. U. D. DE MANTENIMIENTO Módulo 01"
+    },
+    {
+        "cred": "8258",
+        "nombre": "CARLOS GUTIERREZ PALMA",
+        "rfc": "C830813H00830",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8260",
+        "nombre": "JORGE MONDRAGON SANCHEZ",
+        "rfc": "J751213H92750",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8268",
+        "nombre": "MARCO ANTONIO VELAZQUEZ ORDUÑO",
+        "rfc": "M840525H11840",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8275",
+        "nombre": "JESUS IVAN VERA MARTINEZ",
+        "rfc": "J870817H09870",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8290",
+        "nombre": "SIMON YAÑEZ HORTA",
+        "rfc": "S760630H09760",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8291",
+        "nombre": "VICTOR ENRIQUE GARCIA MARTINEZ",
+        "rfc": "V900425H07901",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8333",
+        "nombre": "JAVIER CUSTODIO SANCHEZ",
+        "rfc": "J780523H98783",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8360",
+        "nombre": "ISAIAS FRANCISCO GONZALEZ FELIPE",
+        "rfc": "I800401H11800",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8363",
+        "nombre": "GUILLERMO ARMANDO ROSALES TRUJILLO",
+        "rfc": "G830311H11830",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8416",
+        "nombre": "FRANCISCO JAVIER CID MARTINEZ",
+        "rfc": "F731101H14733",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8446",
+        "nombre": "ALEJANDRO ALVAREZ MONTOYA",
+        "rfc": "A670308H87670",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8462",
+        "nombre": "IVAN CRUZ RODRIGUEZ MARCOS",
+        "rfc": "I760101H91733",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8480",
+        "nombre": "RAMIRO PINEDA HERNANDEZ",
+        "rfc": "R900708H10900",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8493",
+        "nombre": "HUMBERTO PAZ GIL",
+        "rfc": "H780202H08780",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8511",
+        "nombre": "LUDWIN VAN EMMANUEL VARGAS VARGAS",
+        "rfc": "L830824H12830",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8537",
+        "nombre": "HUGO VLADIMIR ALAS HERNANDEZ",
+        "rfc": "H690325H87690",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8549",
+        "nombre": "JOSE LUIS FERNANDEZ GUTIERREZ",
+        "rfc": "L660420H84660",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8620",
+        "nombre": "MARIO REBOLLEDO RODRIGUEZ",
+        "rfc": "M660119H86663",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8622",
+        "nombre": "SERGIO CRUZ PADILLA",
+        "rfc": "S680229H86680",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8684",
+        "nombre": "JUAN MIGUEL RODRIGUEZ NORIEGA",
+        "rfc": "J820509H98820",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8739",
+        "nombre": "MIGUEL ANGEL PADILLA CERVANTES",
+        "rfc": "M650626H84651",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8746",
+        "nombre": "JOSE EDUARDO RODRIGUEZ GUZMAN",
+        "rfc": "E870823H15870",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8753",
+        "nombre": "JAIME SOTO VERDUZCO",
+        "rfc": "J791226H10790",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8869",
+        "nombre": "LORENA GUADALUPE SEGURA GONZALEZ",
+        "rfc": "L770727M96774",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8876",
+        "nombre": "JANET HERNANDEZ BRAVO",
+        "rfc": "J760404M97760",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8959",
+        "nombre": "CARLOS GERARDO JUAREZ CHAVEZ",
+        "rfc": "C861022H06861",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8968",
+        "nombre": "ALBERTO GONZALEZ TORRES",
+        "rfc": "A801218H01811",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8970",
+        "nombre": "PEDRO PEREZ BENITEZ",
+        "rfc": "P650924H83641",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8972",
+        "nombre": "ARTURO ROMERO VILLAFUERTE",
+        "rfc": "A770418H96770",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8976",
+        "nombre": "FELIPE DE JESUS CORREA GONZALEZ",
+        "rfc": "F820707H08820",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8977",
+        "nombre": "OSCAR FIGUEROA RAMIREZ",
+        "rfc": "O860519H06861",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8981",
+        "nombre": "ALAN GUILLERMO IBAÑEZ FARFAN",
+        "rfc": "A900228H16907",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8982",
+        "nombre": "MARCOS OMAR CRUZ GOMEZ",
+        "rfc": "M860207H04861",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8983",
+        "nombre": "OMAR PURECO VILLAVICENCIO",
+        "rfc": "O690703H90692",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "8988",
+        "nombre": "ROBERTO LOPEZ HERNANDEZ",
+        "rfc": "R660211H96660",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9000",
+        "nombre": "GERARDO MEDINA SALGADO",
+        "rfc": "G801201H99802",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9013",
+        "nombre": "DANIEL BAUTISTA HERNANDEZ",
+        "rfc": "D930213H12931",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9109",
+        "nombre": "ANGELICA MENDEZ LOPEZ",
+        "rfc": "A880212M17881",
+        "adscripcion": "OFICINA DE RECURSOS HUMANOS Módulo 01"
+    },
+    {
+        "cred": "9178",
+        "nombre": "JULIO CESAR ANDRADE OSORIO",
+        "rfc": "J770626H97771",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9179",
+        "nombre": "JOSE LUIS ESPINOSA GUARDADO",
+        "rfc": "L700129H90700",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9181",
+        "nombre": "PABLO MANUEL PEREZ HERNANDEZ",
+        "rfc": "P840401H11840",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9243",
+        "nombre": "JOSE ALBERTO FLORES RAMIREZ",
+        "rfc": "A830408H01831",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9249",
+        "nombre": "MARTIN ANTONIO TORRES MARTINEZ",
+        "rfc": "M770117H95771",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9261",
+        "nombre": "VICTORIANO FLORES VILCHIS",
+        "rfc": "V711223H12710",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9263",
+        "nombre": "DAVID RODRIGUEZ CRUZ",
+        "rfc": "D850523H12850",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9291",
+        "nombre": "SAUL CARDONA PICON",
+        "rfc": "S701011H02700",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9294",
+        "nombre": "GERARDO FERMIN SOTO",
+        "rfc": "G790618H97790",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9326",
+        "nombre": "ALMA DELIA MILAN GARDUÑO",
+        "rfc": "A760904M00761",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9349",
+        "nombre": "ADRIANA CALDERON SANTANA",
+        "rfc": "A720305M91725",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9405",
+        "nombre": "ANGEL DANIEL ROMERO HINOJOSA",
+        "rfc": "A970713H13977",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9424",
+        "nombre": "JAVIER NAVARRO SALDAÑA",
+        "rfc": "J700219H88702",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9426",
+        "nombre": "RICARDO JIMENEZ GRANADOS",
+        "rfc": "R811102H11810",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9493",
+        "nombre": "JUAN CARLOS HERRERA PEREZ",
+        "rfc": "J961119H11960",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9514",
+        "nombre": "JOSE RAUL AVILES ROJAS",
+        "rfc": "R860920H07860",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9542",
+        "nombre": "ALVARO GONZALEZ COLIN",
+        "rfc": "A960219H14965",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9547",
+        "nombre": "AUDON GERARDO GARCIA GUTIERREZ",
+        "rfc": "A850309H01850",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9696",
+        "nombre": "MARCO ANTONIO SANCHEZ DIAZ",
+        "rfc": "M860222H07861",
+        "adscripcion": "OFICINA DE FINANZAS Módulo 01"
+    },
+    {
+        "cred": "9699",
+        "nombre": "MIGUEL ANGEL MUÑOZ LOZANO",
+        "rfc": "M890506H09890",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "9704",
+        "nombre": "GUILLERMO PEÑA TRINIDAD",
+        "rfc": "G761201H97760",
+        "adscripcion": "J.U.D. DE ADMINISTRACION Y FINANZAS Módulo 01"
+    },
+    {
+        "cred": "9769",
+        "nombre": "ARMANDO GARCIA ROMERO",
+        "rfc": "A840311H03842",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9770",
+        "nombre": "VICTOR MIGUEL GOMEZ SANCHEZ",
+        "rfc": "V961018H12960",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9788",
+        "nombre": "JOSE LUIS PEÑA GARCIA",
+        "rfc": "L680529H86680",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "9796",
+        "nombre": "RAUL ALBERTO ANGELES DIAZ",
+        "rfc": "R790923H96770",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9808",
+        "nombre": "RODRIGO MARTINEZ TAPIA",
+        "rfc": "R810910H01810",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9815",
+        "nombre": "JUAN SANCHEZ AGUIRRE",
+        "rfc": "J770312H97773",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9818",
+        "nombre": "ROBERTO ARAMIS TUNION PICHARDO",
+        "rfc": "R850326H05851",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9838",
+        "nombre": "JOSE IGNACIO GONZALEZ LUNA",
+        "rfc": "I800806H14800",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9855",
+        "nombre": "JUAN ALBERTO TREVILLA MANRIQUE",
+        "rfc": "J840407H01843",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9861",
+        "nombre": "JUAN MANUEL MARTINEZ MARTINEZ",
+        "rfc": "J760516H93762",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "9880",
+        "nombre": "RENE MANUEL LOPEZ",
+        "rfc": "R850426H04851",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9885",
+        "nombre": "ESEQUIEL HERIBERTO MONTES GONZALEZ",
+        "rfc": "E840906H04842",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9887",
+        "nombre": "JUAN CARLOS SOTO VILLAR",
+        "rfc": "J850622H18859",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9890",
+        "nombre": "JULIO DAMIAN LAGARDE MUÑOZ",
+        "rfc": "J820412H99822",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9892",
+        "nombre": "ALEJANDRO ARREDONDO SALINAS",
+        "rfc": "A730611H89732",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9895",
+        "nombre": "CECILIA MONTSERRAT FRANCO SANCHEZ",
+        "rfc": "C880205M08881",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "9897",
+        "nombre": "GUILLERMO ARTURO CERON BRITO",
+        "rfc": "G910210H16918",
+        "adscripcion": "OFICINA DE DESPACHO DE AUTOBUSES Módulo 01"
+    },
+    {
+        "cred": "9898",
+        "nombre": "RODRIGO GONZALEZ ACOSTA",
+        "rfc": "R860313H05860",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "9899",
+        "nombre": "SARAHI PAULINA LIDES FLORES",
+        "rfc": "S900506M16906",
+        "adscripcion": "OFICINA DE DESPACHO DE AUTOBUSES Módulo 01"
+    },
+    {
+        "cred": "9979",
+        "nombre": "LILIANA NAVA HERNANDEZ",
+        "rfc": "L771210M19778",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "9992",
+        "nombre": "DIANA SANCHEZ HERNANDEZ",
+        "rfc": "D760916M13760",
+        "adscripcion": "OFICINA DE REFACC. Y HERRAMIENTAS Módulo 01"
+    },
+    {
+        "cred": "9998",
+        "nombre": "DANTE FERNANDO GARCIA CASTILLO",
+        "rfc": "D981001H15987",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "9999",
+        "nombre": "HECTOR JAVIER DORANTES GONZALEZ",
+        "rfc": "H810422H02810",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10011",
+        "nombre": "MIGUEL ANGEL AGUILAR BEDOLLA",
+        "rfc": "M700716H92703",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10012",
+        "nombre": "IVAN GERARDO FLORES CHAVEZ",
+        "rfc": "I820709H98813",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10014",
+        "nombre": "ERASTO GONZALEZ RODRIGUEZ",
+        "rfc": "E620726H79620",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10018",
+        "nombre": "MANUEL ANTONIO TORRES GARCIA",
+        "rfc": "M730918H91735",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10048",
+        "nombre": "IVAN ADRIAN MENDOZA PEREZ",
+        "rfc": "I950313H14953",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10055",
+        "nombre": "JOSE LUIS PACHECO BECERRIL",
+        "rfc": "L821204H05820",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10059",
+        "nombre": "IRMA ELISA ORTEGA RIVAS",
+        "rfc": "I670327M89672",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10072",
+        "nombre": "JOEL HERNANDEZ MODESTO",
+        "rfc": "J690713H85661",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10122",
+        "nombre": "GERARDO HERNANDEZ CALDERON",
+        "rfc": "G991205H16995",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "10135",
+        "nombre": "ZAIRA BELMONT GARCIA",
+        "rfc": "Z911118M09910",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "10143",
+        "nombre": "RICARDO GUERRERO RUIZ",
+        "rfc": "R950726H11951",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "10149",
+        "nombre": "CARLOS BAIZABAL GOMEZ",
+        "rfc": "C680408H87681",
+        "adscripcion": "OFICINA DE DESPACHO DE AUTOBUSES Módulo 01"
+    },
+    {
+        "cred": "10157",
+        "nombre": "HUGO MARTINEZ TREJO",
+        "rfc": "H901210H15900",
+        "adscripcion": "OFICINA DE DESPACHO DE AUTOBUSES Módulo 01"
+    },
+    {
+        "cred": "10260",
+        "nombre": "MARIANE CONSTANZA GARCIA ARAGON",
+        "rfc": "M751001M93753",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "10271",
+        "nombre": "RUBEN DARIO HERNANDEZ MARTINEZ",
+        "rfc": "R861012H05863",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10283",
+        "nombre": "JOSE LUIS LLANOS ENRIQUEZ",
+        "rfc": "L881205H09881",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10301",
+        "nombre": "ADRIAN ROJAS HERNANDEZ",
+        "rfc": "A831111H16839",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10304",
+        "nombre": "LUIS ANDRES ROJAS LOPEZ",
+        "rfc": "L810808H97802",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10313",
+        "nombre": "MARIA DE LOURDES ALCANTARA RODEA",
+        "rfc": "L730323M90731",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10314",
+        "nombre": "JOEL BELMONT GARCIA",
+        "rfc": "J930409H12930",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10318",
+        "nombre": "ERNESTO SEGURA MARTINEZ",
+        "rfc": "E900125H10901",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10368",
+        "nombre": "ALEJANDRO CONDE NIETO",
+        "rfc": "A750304H92756",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10369",
+        "nombre": "DAVID DORANTES NAVA",
+        "rfc": "D760417H93760",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10376",
+        "nombre": "RICARDO VELAZQUEZ SANCHEZ",
+        "rfc": "R910712H13910",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10415",
+        "nombre": "ISRAEL RAYMUNDO ACERO MENDOZA",
+        "rfc": "I810817H02810",
+        "adscripcion": "OFICINA DE RECURSOS HUMANOS Módulo 01"
+    },
+    {
+        "cred": "10434",
+        "nombre": "MARCELINO ALVARADO GRANADERO",
+        "rfc": "M961118H15967",
+        "adscripcion": "OFICINA DE COMBUSTIBLES Y LUBRICANTES Módulo 01"
+    },
+    {
+        "cred": "10470",
+        "nombre": "OSCAR SANCHEZ FUENTES",
+        "rfc": "O941214H12940",
+        "adscripcion": "J. U. D. DE MANTENIMIENTO Módulo 01"
+    },
+    {
+        "cred": "10482",
+        "nombre": "JUAN CARLOS CORONADO GONZALEZ",
+        "rfc": "J921125H13921",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10516",
+        "nombre": "SONIA HINOJOSA ANGELES",
+        "rfc": "S680108M85680",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10544",
+        "nombre": "ARMANDO CASTRO ROJAS",
+        "rfc": "A821109H99821",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10547",
+        "nombre": "AGUSTIN GARCIA MONROY",
+        "rfc": "A940827H20947",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10548",
+        "nombre": "LUIS GUTIERREZ NAVA",
+        "rfc": "L920103H12922",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10580",
+        "nombre": "CARLOS ALBERTO AGUILAR ARRIAGA",
+        "rfc": "C920423H11924",
+        "adscripcion": "OFICINA DE FINANZAS Módulo 01"
+    },
+    {
+        "cred": "10581",
+        "nombre": "MARIO ISRAEL CHAVEZ SOTO",
+        "rfc": "M690703H21697",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10584",
+        "nombre": "GONZALO JOAQUIN OVALLE LUNA",
+        "rfc": "G790702H97790",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10588",
+        "nombre": "ANGEL ZUMAYA MORENO",
+        "rfc": "A820709H18825",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10614",
+        "nombre": "JUAN CARLOS CAMACHO MARTINEZ",
+        "rfc": "J700722H11700",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10616",
+        "nombre": "CONNY GARCIA MONROY",
+        "rfc": "C910328M09910",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10620",
+        "nombre": "EMMANUEL GONZALEZ RIOS",
+        "rfc": "E960604H12960",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10621",
+        "nombre": "DIEGO YOUSET GUERRERO MONCADA",
+        "rfc": "D870326H08870",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10622",
+        "nombre": "EDGAR URIEL REYES ANTONIO",
+        "rfc": "E950104H14955",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10654",
+        "nombre": "LEONARDO SAN LUIS SILVESTRE",
+        "rfc": "L931123H10930",
+        "adscripcion": "J. U. D. DE MANTENIMIENTO Módulo 01"
+    },
+    {
+        "cred": "10684",
+        "nombre": "GUILLERMO IVAN MENDEZ CRESCENCIO",
+        "rfc": "G820106H01821",
+        "adscripcion": "OFICINA DE RECURSOS HUMANOS Módulo 01"
+    },
+    {
+        "cred": "10698",
+        "nombre": "EDUARDO DAVID RUIZ GARCIA",
+        "rfc": "E930109H05930",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10733",
+        "nombre": "RAYMUNDO CARRILLO RIVERA",
+        "rfc": "R921226H09920",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10734",
+        "nombre": "LUIS ALBERTO MARTINEZ PEREZ",
+        "rfc": "L911108H08910",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10735",
+        "nombre": "JOSE ANTONIO PONCE MUNGUIA",
+        "rfc": "A760813H94761",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10736",
+        "nombre": "FRANCISCO JAVIER RIVERA ROCHA",
+        "rfc": "F890412H08891",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10774",
+        "nombre": "MARTIN ARIZMENDI ALVA",
+        "rfc": "M700130H88703",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10775",
+        "nombre": "ALEJANDRO NAVARRO PEREZ",
+        "rfc": "A750224H93752",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10776",
+        "nombre": "JOSE LUIS RUIZ GARCIA",
+        "rfc": "L810508H99811",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10779",
+        "nombre": "OSCAR DEGANTE ROMAN",
+        "rfc": "O750923H95752",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10807",
+        "nombre": "SERGIO ANTONIO CARMONA VEGA",
+        "rfc": "S820816H07820",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10808",
+        "nombre": "JOSE FRANCISCO MARTINEZ CORDOVA",
+        "rfc": "F860303H04860",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10809",
+        "nombre": "EDUARDO MORENO DOMINGUEZ",
+        "rfc": "E930907H13933",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10842",
+        "nombre": "DANIEL HERNANDEZ CORTES",
+        "rfc": "D820822H19827",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10843",
+        "nombre": "HOMERO PEREZ MORALES",
+        "rfc": "H711116H90710",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10844",
+        "nombre": "CHRISTIAN JOSE VAZQUEZ ORIBIO",
+        "rfc": "C921012H21928",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10867",
+        "nombre": "JONATHAN GARCIA HERNANDEZ",
+        "rfc": "J920710H11924",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10883",
+        "nombre": "JUANA ELIZABETH MACIAS ALVAREZ",
+        "rfc": "J891130M19897",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10885",
+        "nombre": "SALVADOR DIONICIO HILARIO",
+        "rfc": "S911110H12912",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10936",
+        "nombre": "FERNANDO HERNANDEZ ROSAS",
+        "rfc": "F760630H99760",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10943",
+        "nombre": "GUSTAVO FLORES MENESES",
+        "rfc": "G670711H88671",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10944",
+        "nombre": "FERNANDO PACHECO SANCHEZ",
+        "rfc": "F950204H12950",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10945",
+        "nombre": "MIGUEL ANGEL GAMBOA GUTIERREZ",
+        "rfc": "M830411H03832",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10946",
+        "nombre": "VICTOR MARTIN MANCILLA SEGURA",
+        "rfc": "V690223H86690",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10947",
+        "nombre": "GASTON RAJU JULIO LEAL CABAÑAS",
+        "rfc": "G780709H96783",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10948",
+        "nombre": "RAUL QUIROZ DIAZ",
+        "rfc": "R930109H10930",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10987",
+        "nombre": "CESAR RICARDO LUNA PORTILLO",
+        "rfc": "C980625H16980",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10992",
+        "nombre": "CESAR AVILES ROJAS",
+        "rfc": "C941209H12941",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10994",
+        "nombre": "VICTOR MANUEL DOÑAN AVILA",
+        "rfc": "V780101H96780",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10995",
+        "nombre": "ANGEL HERNANDEZ SECEÑA",
+        "rfc": "A751124H94753",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10996",
+        "nombre": "JUAN CARLOS MARTINEZ RAZO",
+        "rfc": "J781024H95782",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "10998",
+        "nombre": "MIGUEL ANGEL VELA MUJICA",
+        "rfc": "M760720H07760",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11029",
+        "nombre": "ALBERTO SOTO MUÑOZ",
+        "rfc": "A800424H98801",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11030",
+        "nombre": "FAUSTINO LEOBARDO RAMIREZ VELAZQUEZ",
+        "rfc": "F730328H90732",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11056",
+        "nombre": "FRANCISCO JAVIER LAZCANO JIMENEZ",
+        "rfc": "F830401H02831",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11059",
+        "nombre": "NOE LIDES CASTILLO",
+        "rfc": "N870107H19877",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11060",
+        "nombre": "ALEJANDRO VAZQUEZ CAMPOS",
+        "rfc": "A730726H21734",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11061",
+        "nombre": "JOAQUIN BUSTAMANTE LOPEZ",
+        "rfc": "J690816H01690",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11062",
+        "nombre": "ROBERTO BONILLA TORRES",
+        "rfc": "R860920H05860",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11063",
+        "nombre": "ALAN DAYER CRUZ GUTIERREZ",
+        "rfc": "A920701H10921",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11064",
+        "nombre": "RICARDO ABEL NAVA RIVERA",
+        "rfc": "R840519H13843",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11065",
+        "nombre": "JULIO CESAR OSORIO TREJO",
+        "rfc": "J751220H20759",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11093",
+        "nombre": "DANIEL EDUARDO ACEVEDO MARAÑON",
+        "rfc": "D891013H11890",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11095",
+        "nombre": "FERNANDO ENCARNACION HERNANDEZ",
+        "rfc": "F781219H99780",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11096",
+        "nombre": "DANIEL HERNANDEZ GARCIA",
+        "rfc": "D750219H92759",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11097",
+        "nombre": "VICENTE MACHUCA GARCIA",
+        "rfc": "V770104H95771",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11099",
+        "nombre": "JOSE PEREZ SUAREZ",
+        "rfc": "J820413H97825",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11100",
+        "nombre": "JONATHAN ROQUEZ GUADARRAMA",
+        "rfc": "J911221H11910",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11144",
+        "nombre": "ARTURO JESUS PALMA LOPEZ",
+        "rfc": "A990108H16994",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11153",
+        "nombre": "ARNOLD RAYMUNDO ESQUIVEL VILLAZANA",
+        "rfc": "A921211H13920",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11171",
+        "nombre": "JUAN DAVID CABALLERO FRIAS",
+        "rfc": "J991226H14997",
+        "adscripcion": "J. U. D. DE DESARROLLO DE SISTEMAS  "
+    },
+    {
+        "cred": "11172",
+        "nombre": "VICTOR HUGO SANCHEZ AGUILERA",
+        "rfc": "V910903H12910",
+        "adscripcion": "J. U. D. DE DESARROLLO DE SISTEMAS  "
+    },
+    {
+        "cred": "11173",
+        "nombre": "RAFAEL MORA JIMENEZ",
+        "rfc": "R880127H16880",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11200",
+        "nombre": "BARTOLO LUNA MENDEZ",
+        "rfc": "B760526H99761",
+        "adscripcion": "J.U.D. DE RECURSOS MATERIALES Módulo 01"
+    },
+    {
+        "cred": "11210",
+        "nombre": "OSCAR ARTURO FLORES CRUZ",
+        "rfc": "O820831H99821",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "11213",
+        "nombre": "ANGELICA SELENE NOE REYES",
+        "rfc": "A871223M07871",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "11220",
+        "nombre": "AXEL ROBERTO AYALA LOPEZ",
+        "rfc": "A960411H16963",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "11229",
+        "nombre": "SONIA ESTHER LOPEZ BLANCARTE",
+        "rfc": "S900515M06900",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "11255",
+        "nombre": "ISABEL PEREZ HERNANDEZ",
+        "rfc": "I851117M22858",
+        "adscripcion": "GERENCIA  Módulo 01"
+    },
+    {
+        "cred": "11256",
+        "nombre": "MARIANA NAVA MILAN",
+        "rfc": "M921016M16927",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11274",
+        "nombre": "JUAN CARLOS MANZANO HINOJOSA",
+        "rfc": "J870303H05870",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11275",
+        "nombre": "MIGUEL ANGEL SOLACHE CASTILLO",
+        "rfc": "M830306H04831",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11276",
+        "nombre": "BENITO JESUS SUAREZ SANCHEZ",
+        "rfc": "B720321H94720",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11277",
+        "nombre": "MAURICIO VALENCIA ANGELES",
+        "rfc": "M750401H93753",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11278",
+        "nombre": "OLIVER ARIEL BOBADILLA LAZARO",
+        "rfc": "O790821H00791",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11333",
+        "nombre": "DIEGO MAYA PEREZ",
+        "rfc": "D861219H10860",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11343",
+        "nombre": "CHRISTIAN IVAN FERMIN SOTO",
+        "rfc": "C811122H04810",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11344",
+        "nombre": "JORGE FLORES GOMEZ",
+        "rfc": "J681112H87687",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11345",
+        "nombre": "LUIS ROBERTO GONZALEZ CAMACHO",
+        "rfc": "L641020H08640",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11346",
+        "nombre": "MAURICIO HERNANDEZ ANZUREZ",
+        "rfc": "M761001H22768",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11347",
+        "nombre": "MAXIMINO DAVID JIMENEZ MENDOZA",
+        "rfc": "M820322H97820",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11348",
+        "nombre": "DANIEL MONTOYA JUAREZ",
+        "rfc": "D630501H82632",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11349",
+        "nombre": "MIGUEL ANGEL NAVA JUAREZ",
+        "rfc": "M860723H05860",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11350",
+        "nombre": "ENRIQUE ABRAHAM RAMIREZ GONZALEZ",
+        "rfc": "E901212H13900",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11351",
+        "nombre": "OSCAR SANCHEZ CHAVEZ",
+        "rfc": "O760331H93767",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11352",
+        "nombre": "EDGAR SANTIAGO JIMENEZ",
+        "rfc": "E750701H91740",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11353",
+        "nombre": "SERGIO OCTAVIO VERA IZARRARAZ",
+        "rfc": "S821008H97820",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11423",
+        "nombre": "VICTOR ADOLFO MERCED MARTINEZ",
+        "rfc": "V910618H13910",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11474",
+        "nombre": "ADRIAN ALEGRIA MARTINEZ",
+        "rfc": "A880219H05881",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11475",
+        "nombre": "MARIO ALMONTE PAREDES",
+        "rfc": "M691011H90690",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11476",
+        "nombre": "MARCOS ALVAREZ HERNANDEZ",
+        "rfc": "M680425H88682",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11478",
+        "nombre": "JOSE LUIS UBALDO GONZALEZ",
+        "rfc": "L830816H02832",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11480",
+        "nombre": "JESUS ALBERTO JIMENEZ CARRASCO",
+        "rfc": "J790902H98794",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11481",
+        "nombre": "HUMBERTO FRANCISCO MANCERA MORAN",
+        "rfc": "H911103H10910",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11482",
+        "nombre": "MIGUEL SEBASTIAN SANCHEZ FONSECA",
+        "rfc": "M970124H15971",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11483",
+        "nombre": "MARCO ANTONIO LOPEZ LUCIO",
+        "rfc": "M710808H94710",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11487",
+        "nombre": "JOSE LUIS AGUILAR JARAMILLO",
+        "rfc": "L850415H01850",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11491",
+        "nombre": "RODRIGO MIGUEL SANCHEZ RODRIGUEZ",
+        "rfc": "R890928H07890",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11501",
+        "nombre": "CARLOS GONZALEZ JIMENEZ",
+        "rfc": "C771022H10770",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11504",
+        "nombre": "JAHIR MARTINEZ DUARTE",
+        "rfc": "J871031H05871",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11511",
+        "nombre": "MIGUEL ANGEL VILLEGAS CANCHOLA",
+        "rfc": "M801212H22808",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11556",
+        "nombre": "SERGIO ALFONSO MIRANDA RODRIGUEZ",
+        "rfc": "S841225H02843",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11637",
+        "nombre": "SERGIO AGUILAR MORALES",
+        "rfc": "S720506H89723",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11644",
+        "nombre": "GUADALUPE DE SIXTO PEREZ",
+        "rfc": "G850810M04852",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11656",
+        "nombre": "JOSE LUIS ALVAREZ GARCIA",
+        "rfc": "L720401H22720",
+        "adscripcion": "GERENCIA  Módulo 01"
+    },
+    {
+        "cred": "11674",
+        "nombre": "JOSE LUIS TREJO ARIAS",
+        "rfc": "L750303H94770",
+        "adscripcion": "J.U.D. DE RECURSOS MATERIALES Módulo 01"
+    },
+    {
+        "cred": "11681",
+        "nombre": "RICARDO ORTIZ RODRIGUEZ",
+        "rfc": "R940117H13949",
+        "adscripcion": "GERENCIA  Módulo 01"
+    },
+    {
+        "cred": "11700",
+        "nombre": "ALEXIS ALDANA PAREDES",
+        "rfc": "A930602H08930",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11701",
+        "nombre": "PASCUAL CANO LOPEZ",
+        "rfc": "P760525H94763",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11703",
+        "nombre": "ERIK GUEVARA RIVERA",
+        "rfc": "E800825H22809",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11704",
+        "nombre": "VERONICA  HERNANDEZ",
+        "rfc": "V730821M22739",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11705",
+        "nombre": "LUIS JIMENEZ PEREDO",
+        "rfc": "L780507H00780",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11706",
+        "nombre": "ALINA MERARI LUNA AVILA",
+        "rfc": "A840702M01841",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11709",
+        "nombre": "FELIPE PALACIOS VALENTIN",
+        "rfc": "F750517H96750",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11710",
+        "nombre": "JESUS DANIEL QUINTERO HERNANDEZ",
+        "rfc": "J940924H16948",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11711",
+        "nombre": "EDGAR ANTONIO RODRIGUEZ PEREZ",
+        "rfc": "E790823H99791",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11712",
+        "nombre": "JOSE MIGUEL SANCHEZ NAVA",
+        "rfc": "M820214H17823",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11713",
+        "nombre": "ALBERTO SUAREZ GALLEGOS",
+        "rfc": "A780817H18783",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11714",
+        "nombre": "ALEJANDRO TINAJERO RODRIGUEZ",
+        "rfc": "A840216H22840",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11715",
+        "nombre": "ERNESTO MANUEL TORRES SANDOVAL",
+        "rfc": "E771117H99771",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11716",
+        "nombre": "HECTOR URBANO MARTINEZ",
+        "rfc": "H911213H19919",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11771",
+        "nombre": "CARLOS FERNANDO ZALDIVAR NAVARRETE",
+        "rfc": "C710627H94713",
+        "adscripcion": "GERENCIA  Módulo 01"
+    },
+    {
+        "cred": "11774",
+        "nombre": "PAULINA AVENDAÑO DURAN",
+        "rfc": "P990228M14990",
+        "adscripcion": "J.U.D. DE OPERACION Módulo 01"
+    },
+    {
+        "cred": "11776",
+        "nombre": "JORDY JOVANNE ALVARADO GONZALEZ",
+        "rfc": "J930207H15933",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11781",
+        "nombre": "HUGO ASCARI CRUZ HERNANDEZ",
+        "rfc": "H780415H95780",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11786",
+        "nombre": "JAVIER MONTES DE OCA MARTINEZ",
+        "rfc": "J030327H18036",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11792",
+        "nombre": "MIGUEL ANGEL CABAÑAS GONZALEZ",
+        "rfc": "M811127H00811",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11800",
+        "nombre": "VICTOR VARGAS URIBE",
+        "rfc": "V990109H13992",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11804",
+        "nombre": "IVET CRUZ DETOR",
+        "rfc": "I810606M03810",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11806",
+        "nombre": "SANDRA GONZALEZ BAUTISTA",
+        "rfc": "S890629M07891",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11832",
+        "nombre": "IVAN GARCIA GONZALEZ",
+        "rfc": "I930322H23931",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "11835",
+        "nombre": "BRENDA JAZMIN ARIAS CANO",
+        "rfc": "B961016M14966",
+        "adscripcion": "OFICINA DE RECURSOS HUMANOS Módulo 01"
+    },
+    {
+        "cred": "11839",
+        "nombre": "VIANEY LARA ROBLEDO",
+        "rfc": "V930825M19934",
+        "adscripcion": "GERENCIA  Módulo 01"
+    },
+    {
+        "cred": "11845",
+        "nombre": "JESUS FERNANDO ARRIAGA CISNEROS",
+        "rfc": "J831209H10830",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11851",
+        "nombre": "RUBEN FRAGOSO OLMOS",
+        "rfc": "R701209H95700",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11858",
+        "nombre": "FREDY HERNANDEZ HERNANDEZ",
+        "rfc": "F811027H00811",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11862",
+        "nombre": "JOSE GUADALUPE LORENZO GARCIA",
+        "rfc": "G871218H05870",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11868",
+        "nombre": "RUBEN NAVARRO PEREZ",
+        "rfc": "R640102H89640",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11872",
+        "nombre": "CESAR OCTAVIO RAMIREZ BECERRA",
+        "rfc": "C751227H95750",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11876",
+        "nombre": "CARLOS ALBERTO SOTO PEREZ",
+        "rfc": "C780724H99781",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11879",
+        "nombre": "JOSE LUIS CAPILLA LIRA",
+        "rfc": "L701013H07700",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11885",
+        "nombre": "LESLY GEOVANA CAPISTRAN JIMENEZ",
+        "rfc": "L990409M13990",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "11897",
+        "nombre": "JUAN CARLOS RUIZ MEJIA",
+        "rfc": "J710923H90713",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "11943",
+        "nombre": "DANIEL HERNANDEZ JAIMES",
+        "rfc": "D911011H10910",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11948",
+        "nombre": "RAUL MORALES MAYA",
+        "rfc": "R721122H91722",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "11952",
+        "nombre": "SAMUEL CEDILLO BOHORQUEZ",
+        "rfc": "S020308H17020",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "11965",
+        "nombre": "JESUS ARELLANO SALMERON",
+        "rfc": "J710508H98710",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "11983",
+        "nombre": "ROSAELIA LOPEZ PACHECO",
+        "rfc": "R790322M02790",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "11999",
+        "nombre": "DIANA DOMINGUEZ COBOS",
+        "rfc": "D930114M12932",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "12002",
+        "nombre": "MAURICIO AXEL BALDERAS CARRANZA",
+        "rfc": "M001026H15000",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "12004",
+        "nombre": "ANA SOCORRO FLORES GARCIA",
+        "rfc": "A021028M18026",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "12006",
+        "nombre": "ERICK FERNANDEZ PEREZ",
+        "rfc": "E011108H15019",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "12009",
+        "nombre": "CLAUDIA LUSA MARQUEZ GONZALEZ",
+        "rfc": "C951020M16953",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "12012",
+        "nombre": "JOSE LUIS MARURI GARCIA",
+        "rfc": "L990215H14991",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "12013",
+        "nombre": "JUAN CASTAÑEDA SOLIS",
+        "rfc": "J830816H04830",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "12014",
+        "nombre": "WALDO ELI MONROY ROSAS",
+        "rfc": "W750723H91757",
+        "adscripcion": "GERENCIA MODULO 1 Módulo 01"
+    },
+    {
+        "cred": "12034",
+        "nombre": "JOSE LUIS SALDIVAR SANTILLAN",
+        "rfc": "L880330H12880",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    },
+    {
+        "cred": "12055",
+        "nombre": "JOSE ANTONIO SERRANO QUEZADA",
+        "rfc": "A750825H18750",
+        "adscripcion": "GERENCIA  Módulo 01"
+    },
+    {
+        "cred": "12074",
+        "nombre": "ESPERANZA SALGADO REYNOSO",
+        "rfc": "E941029M13947",
+        "adscripcion": "OFICINA DE PROGRAMACION DEL SERVICIO Módulo 01"
+    }
+]

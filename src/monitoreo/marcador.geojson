@@ -1,0 +1,23 @@
+{
+    "empresaId": 2,
+    "tipo": "marcador",
+    "nombre": "Punto de Interes",
+    "tolerancia": 10,
+    "observaciones":"Punto de vigilancia por huachicol",
+    "gerorreferencia": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {},
+                "geometry": {
+                    "coordinates": [
+                        -99.16625745746475,
+                        19.4218731058465
+                    ],
+                    "type": "Point"
+                }
+            }
+        ]
+    }
+}

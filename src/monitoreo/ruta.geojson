@@ -1,0 +1,174 @@
+{
+    "empresaId": 2,
+    "tipo": "ruta",
+    "origen": "Museo de Antropología",
+    "destino": "Monumento a Cuauhtémoc",
+    "nombre": "Ruta 1-A",
+    "paradasEspejo": true,
+    "tolerancia": 10,
+    "observaciones":"Ruta desde tal a tal pasando pr tal",
+    "color":"#F0F0F0",
+    "gerorreferencia": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {},
+                "geometry": {
+                    "coordinates": [
+                        [
+                            -99.18685430757887,
+                            19.4249623763248
+                        ],
+                        [
+                            -99.17580793206727,
+                            19.42322610169603
+                        ],
+                        [
+                            -99.17194585341095,
+                            19.424831830004734
+                        ],
+                        [
+                            -99.17151673356037,
+                            19.424818775367513
+                        ],
+                        [
+                            -99.17128140977137,
+                            19.425184304827127
+                        ],
+                        [
+                            -99.16811145990633,
+                            19.426724741371146
+                        ],
+                        [
+                            -99.16736396081161,
+                            19.426528923976548
+                        ],
+                        [
+                            -99.16710095187092,
+                            19.427129429904937
+                        ],
+                        [
+                            -99.16402284095992,
+                            19.428605743375556
+                        ],
+                        [
+                            -99.16354416187203,
+                            19.428544185883936
+                        ],
+                        [
+                            -99.16331207504145,
+                            19.42897508783861
+                        ],
+                        [
+                            -99.15975485110441,
+                            19.430666426608113
+                        ],
+                        [
+                            -99.15890360026978,
+                            19.430962182831095
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "id": 0
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "tipo": "terminal",
+                    "nombre": "Museo de Antropología",
+                    "numeroEstacion": 1
+                },
+                "geometry": {
+                    "coordinates": [
+                        -99.18686864257079,
+                        19.424949083021176
+                    ],
+                    "type": "Point"
+                },
+                "id": 1
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "tipo": "estacion/parada",
+                    "nombre": "Estela de Luz",
+                    "numeroEstacion": 2
+                },
+                "geometry": {
+                    "coordinates": [
+                        -99.17586108888092,
+                        19.423218910316535
+                    ],
+                    "type": "Point"
+                },
+                "id": 2
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "tipo": "estacion/parada",
+                    "nombre": "Diana",
+                    "numeroEstacion": 3
+                },
+                "geometry": {
+                    "coordinates": [
+                        -99.17147553971225,
+                        19.424767827697224
+                    ],
+                    "type": "Point"
+                },
+                "id": 3
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "tipo": "estacion/parada",
+                    "nombre": "Ángel de la Independencia",
+                    "numeroEstacion": 4
+                },
+                "geometry": {
+                    "coordinates": [
+                        -99.16737957955657,
+                        19.42656855262038
+                    ],
+                    "type": "Point"
+                },
+                "id": 4
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "tipo": "estacion/parada",
+                    "nombre": "Niza",
+                    "numeroEstacion": 5
+                },
+                "geometry": {
+                    "coordinates": [
+                        -99.16354411793908,
+                        19.42855010096143
+                    ],
+                    "type": "Point"
+                },
+                "id": 5
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "tipo": "terminal",
+                    "nombre": "Monumento a Cuauhtémoc",
+                    "numeroEstacion": 6
+                },
+                "geometry": {
+                    "coordinates": [
+                        -99.15888832064385,
+                        19.430968368951042
+                    ],
+                    "type": "Point"
+                },
+                "id": 6
+            }
+        ]
+    }
+}

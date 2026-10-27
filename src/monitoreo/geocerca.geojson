@@ -1,0 +1,44 @@
+{
+    "empresaId": 2,
+    "tipo": "geocerca",
+    "nombre": "Reforma",
+    "tolerancia": 5,
+    "observaciones":"Zona de velocidad limitada",
+    "color":"#F0F0F0",
+    "gerorreferencia": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {},
+                "geometry": {
+                    "coordinates": [
+                        [
+                            [
+                                -99.15939974171332,
+                                19.431442287778424
+                            ],
+                            [
+                                -99.17594069505766,
+                                19.424039258439592
+                            ],
+                            [
+                                -99.17532201622689,
+                                19.42253638550116
+                            ],
+                            [
+                                -99.16025555969601,
+                                19.429672386048622
+                            ],
+                            [
+                                -99.15939974171332,
+                                19.431442287778424
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,6 @@
+.map-toolbar {
+  position: absolute;
+  top: 14px;
+  left: 20px;
+  z-index: 1000;
+}
