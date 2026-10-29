@@ -16,6 +16,7 @@ import { TicketsIncidencias } from "../tickets/Tickets";
 import { LiveMap } from "../monitoreo/LiveMap";
 import { VideoCentral } from "../monitoreo/VideoCentral";
 import { AlertsManagement } from "../monitoreo/AlertsManagement";
+import { TiposDispositivoPage } from "../tipos-dispositivo/TiposDispositivoPage";
 
 export const MainMenu = ({ setPage }: { setPage: (e: any) => void }) => {
 
@@ -107,6 +108,12 @@ export const MainMenu = ({ setPage }: { setPage: (e: any) => void }) => {
             icon: <FontAwesomeIcon key={"faTicket"} icon={faTicket} className="mr-2" />,
             command: () => setPage(<TicketsIncidencias />),
         },
+        {
+            id: "tipos-dispositivo",
+            label: "Tipos de dispositivo",
+            icon: <FontAwesomeIcon key={"faTabletScreenButton"} icon={faTabletScreenButton} className="mr-2" />,
+            command: () => setPage(<TiposDispositivoPage />)
+        }
         // {
         //     id: "programacion_despacho",
         //     label: "Programación y Despacho",

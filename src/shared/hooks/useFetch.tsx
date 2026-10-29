@@ -98,7 +98,7 @@ export const useFetch = () => {
   const putRequest = useCallback(async ({ url, token, json }: fetchRequest) => {
     try {
       const res: any = await fetch(url, {
-        method: 'PATCH',
+        method: 'PUT', // Lo podría cambiar a Patch pero todos mis métodos son tipo PUT
         body: JSON.stringify(json),
         headers: {
           'Authorization': `Bearer ${token}`,
