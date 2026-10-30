@@ -17,6 +17,7 @@ import { LiveMap } from "../monitoreo/LiveMap";
 import { VideoCentral } from "../monitoreo/VideoCentral";
 import { AlertsManagement } from "../monitoreo/AlertsManagement";
 import { TiposDispositivoPage } from "../tipos-dispositivo/TiposDispositivoPage";
+import { DispositivosPage } from "../dispositivos/DispositivosPage";
 
 export const MainMenu = ({ setPage }: { setPage: (e: any) => void }) => {
 
@@ -113,6 +114,12 @@ export const MainMenu = ({ setPage }: { setPage: (e: any) => void }) => {
             label: "Tipos de dispositivo",
             icon: <FontAwesomeIcon key={"faTabletScreenButton"} icon={faTabletScreenButton} className="mr-2" />,
             command: () => setPage(<TiposDispositivoPage />)
+        },
+        {
+            id: "dispositivos",
+            label: "Dispositivos",
+            icon: <FontAwesomeIcon key={"faBoxesStacked"} icon={faBoxesStacked} className="mr-2" />,
+            command: () => setPage(<DispositivosPage />)
         }
         // {
         //     id: "programacion_despacho",

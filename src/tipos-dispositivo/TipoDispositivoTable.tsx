@@ -77,7 +77,7 @@ export const TipoDispositivoTable = ({
                                 position: 'top',
                                 showDelay: 100,
                                 mouseTrack: true,
-                                mouseTrackTop: 15
+                                mouseTrackTop: 25
                             }}
                             onClick={() => onEliminar(tipo)}
                         />
